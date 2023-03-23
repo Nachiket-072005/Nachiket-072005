@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nachiprajapati7" target="blank"><img src="https://img.shields.io/twitter/follow/nachiprajapati7?logo=twitter&style=for-the-badge" alt="nachiprajapati7" /></a> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Java**,**Javascript**
 
 - 🌱 I’m currently learning **Java, C++, etc.**
 
