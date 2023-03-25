@@ -1,4 +1,3 @@
-<img align="center" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png)">
 <h1 align="center">Hi 👋, I'm Nachiket Prajapati</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
