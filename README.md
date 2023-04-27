@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Java, C, C++ etc.**
 
-- ⚡ Fun fact **Fun...**
+<!-- ⚡ Fun fact **Fun...** -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
