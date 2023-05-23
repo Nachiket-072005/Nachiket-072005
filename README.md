@@ -5,4 +5,4 @@
 
 - 🌱 I’m currently learning **Java, C++ etc.**
 
-- 💬 Ask me about **Java, C, C++ etc.**
+<!-- - 💬 Ask me about **Java, C, C++ etc.** -->
