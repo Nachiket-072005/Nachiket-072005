@@ -5,4 +5,4 @@
 
 - 🌱 I’m currently learning **HTML,CSS and Javascript etc.**
 
-<!-- - 💬 Ask me about **Java, C, C++ etc.** -->
+<!-- - 💬 Ask me about **Java, C, C++, HTML, CSS etc.** -->
