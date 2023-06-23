@@ -12,7 +12,6 @@
 - 💬 Ask me about **Java, C, C++, HTML, CSS etc.**
 
 ## Language and Tools 
-
- <i class="fa-brands fa-html5"></i>
+<i class="fa-brands fa-html5"></i>
 </body>
 </html>
