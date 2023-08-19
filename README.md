@@ -29,8 +29,8 @@
 - 🌱 I’m currently learning **Full Stack Web Development(MERN Stack).**
 - 💬 Ask me about **Java, C, C++, HTML, CSS etc.**
 <h3 align="left">🟡 I'm currently diving deeper into:</h3> 
-- 🚀 Problem Solving by DSA skills<br>
-- 🚀 Full Stack Web Development<br>
+🚀 Problem Solving by DSA skills<br>
+🚀 Full Stack Web Development<br>
 
 <h2></h2>
 <h3 align="left"> 🔵 Github Status  <h3> 
