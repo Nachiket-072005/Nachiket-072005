@@ -1,9 +1,6 @@
 ## Hey there :wave:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Nachiket+Prajapati+Here...)](https://git.io/typing-svg)
-
-<img src="https://github.com/Nachiket-2005/WEBDCOURSE/blob/main/BACKEND/MyProject/Second_Output.png"/>
-
 ###### Glad to see you here :heart:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NachiketPrajapati&label=Views&color=blue&style=plastic" alt="nachiket" /> </p>
