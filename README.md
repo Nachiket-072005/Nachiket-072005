@@ -14,12 +14,12 @@
   <kbd>
   <img align="centre" alt="nachiket's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
- <a href="https://www.instagram.com/official_nachiket_07">
+ <a href="https://www.instagram.com/hustlewithnachiket">
   <kbd>
   <img align="centre" alt="nachiket's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
   
-<a href="https://twitter.com/NachiPrajapati7?t=no3vtWr58enDu_xamFHLzA&s=09">
+<a href="https://twitter.com/hustlewithnachi?t=no3vtWr58enDu_xamFHLzA&s=09">
 <kbd>
 <img align="centre" alt="nachiket's Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />
 </a>
@@ -36,8 +36,8 @@
 <h3 align="left"> 🔵 Github Status  <h3> 
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nachiket-2005&theme=radical&show_icons=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nachiket-2005&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hustlewithnachiket&theme=radical&show_icons=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hustlewithnachiket&theme=radical&show_icons=true" />
 </div>
 <h2></h2>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nachiket-2005&bg_color=030303&color=9e4c98&line=9e4c98&point=bd9393&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hustlewithnachiket&bg_color=030303&color=9e4c98&line=9e4c98&point=bd9393&area=true&hide_border=true"/>
