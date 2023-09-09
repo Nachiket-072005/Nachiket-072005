@@ -4,6 +4,7 @@
 ###### Glad to see you here :heart:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NachiketPrajapati&label=Views&color=blue&style=plastic" alt="nachiket" /> </p>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/hustlewithnachiket">
 <img align="right" alt="Coding" width="450" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
 
 <h3 align="left">🟠 Languages and Tools:</h3>
