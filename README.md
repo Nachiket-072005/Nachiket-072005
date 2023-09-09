@@ -35,9 +35,6 @@
 <h2></h2>
 <h3 align="left"> 🔵 Github Status  <h3> 
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hustlewithnachiket&theme=radical&show_icons=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hustlewithnachiket&theme=radical&show_icons=true" />
-</div>
+
 <h2></h2>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hustlewithnachiket&bg_color=030303&color=9e4c98&line=9e4c98&point=bd9393&area=true&hide_border=true"/>
