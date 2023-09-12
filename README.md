@@ -45,3 +45,4 @@
 
 <h2></h2>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hustlewithnachiket&bg_color=030303&color=9e4c98&line=9e4c98&point=bd9393&area=true&hide_border=true"/>
+<a href="https://github.com/hustlewithnachiket" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hustlewithnachiket&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
