@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="450" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
 
 - 🌱 I’m currently learning **Full Stack Web Development(MERN Stack).**
-- 💬 Ask me about **Java, C, C++, HTML, CSS, JavaScript etc.**
+- 💬 Ask me about **Java(Basic), C, C++(Basic), HTML, CSS, JavaScript etc.**
 - 📫 How to reach me **<a href = "prajapatinachiket014@gmail.com">Gmail</a>**
 - 👨‍💻 My Portfolio **<a href = "https://hustlewithnachiket.github.io/Portfolio_Website/dist/index.html">Live Preview</a>**
   
@@ -26,10 +26,12 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
+<!-- <p>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+</p> -->
 
 <h3 align="left">🔵 To Connect With Me:</h3>
 <a href="https://www.linkedin.com/in/nachiketprajapati">
