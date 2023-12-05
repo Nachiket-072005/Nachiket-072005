@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Full Stack Web Development(MERN Stack).**
 - 💬 Ask me about **Java(Basic), C, C++(Basic), HTML, CSS, JavaScript etc.**
 - 📫 How to reach me **prajapatinachiket014@gmail.com**
-- 👨‍💻 My Portfolio **<a href = "https://hustlewithnachiket.github.io/Portfolio_Website/dist/index.html">Live Preview</a>**
+- 👨‍💻 My Portfolio **<a href = "https://hustlewithnachiket.github.io/Portfolio_Website/public/dist/index.html">Live Preview</a>**
   
 
 <h3 align="left">Languages and Tools:</h3>
