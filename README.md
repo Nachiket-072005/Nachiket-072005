@@ -52,8 +52,3 @@
 <h3 align="left">🟡 I'm currently diving deeper into:</h3> 
 🚀 Problem Solving by DSA skills<br>
 🚀 Full Stack Web Development<br>
-
-# 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=Nachiket-072005&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nachiket-072005&theme=onedark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nachiket-072005&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&align="centre")
