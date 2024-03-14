@@ -52,3 +52,8 @@
 <h3 align="left">🟡 I'm currently diving deeper into:</h3> 
 🚀 Problem Solving by DSA skills<br>
 🚀 Full Stack Web Development<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nachiket-072005&show_icons=true&locale=en&layout=compact" alt="Nachiket-072005" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nachiket-072005&show_icons=true&theme=onedark&title_color=85f7ff&text_color=7afffd&locale=en" alt="Nachiket-072005" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nachiket-072005&theme=dark" alt="Nachiket-072005" /></p>
