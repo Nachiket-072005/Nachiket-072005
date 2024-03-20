@@ -58,4 +58,4 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nachiket-072005&show_icons=true&locale=en&theme=monokai" alt="Nachiket-072005" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nachiket-072005&theme=monokai" alt="Nachiket-072005" /><img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nachiket-072005&theme=highcontrast&hide_border=false)<br/>
