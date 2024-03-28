@@ -50,7 +50,7 @@
 <br>
 
 <h3 align="left">🟡 I'm currently diving deeper into:</h3> 
-🚀 Problem Solving by DSA skills<br>
+🚀 Problem-Solving by DSA skills<br>
 🚀 Full Stack Web Development<br>
 
 <h3 align="left">GitHub Status: </h3>
