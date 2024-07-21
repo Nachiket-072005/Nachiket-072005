@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Nachiket+Prajapati+Here...)](https://git.io/typing-svg)
 ###### Glad to see you here :heart:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NachiketPrajapati&label=Views&color=blue&style=plastic" alt="nachiket" /> </p>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nachiket-072005">
 <img align="right" alt="Coding" width="450" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
 
